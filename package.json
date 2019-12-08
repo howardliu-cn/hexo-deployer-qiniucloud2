@@ -1,0 +1,29 @@
+{
+  "name": "hexo-deployer-qiniucloud2",
+  "version": "1.0.10",
+  "description": "Qiniu Cloud deployer plugin of Hexo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hexo",
+    "deployer",
+    "qiniu",
+    "qiniucloud",
+    "Qiniu Cloud",
+    "七牛",
+    "七牛云"
+  ],
+  "author": "howardliu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/howardliu-cn/hexo-deployer-qiniu-cloud"
+  },
+  "dependencies": {
+    "hexo-fs": "^2.0.0",
+    "qiniu": "^7.2.2",
+    "request": "^2.88.0"
+  }
+}
