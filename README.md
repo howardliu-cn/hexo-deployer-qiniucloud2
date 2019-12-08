@@ -20,7 +20,9 @@ npm install hexo-deployer-qiniucloud2 --save
        type: qiniu
        accessKey: <accessKey>
        secretKey: <secretKey>
+       # 华东: Zone_z0, 华北: Zone_z1, 华南: Zone_z2, 北美: Zone_na0, 东南亚: Zone_as0
        zone: <zone>
+       # the name of bucket
        scope: <scope>
        # example http://www.a.com/,http://www.b.cn/
        dirsToRefresh: <dirsToRefresh> 
