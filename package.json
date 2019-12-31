@@ -1,6 +1,6 @@
 {
   "name": "hexo-deployer-qiniucloud2",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "Qiniu Cloud deployer plugin of Hexo.",
   "main": "index.js",
   "scripts": {
